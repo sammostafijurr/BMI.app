@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="str_wegiht">Weight in KG</string>
+    <string name="str_height">Height in Meter</string>
+    <string name="_20">20</string>
+    <string name="str_image_view">"appropriate image according to your BMI "</string>
+</resources>
